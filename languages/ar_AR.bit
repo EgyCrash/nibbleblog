@@ -1,0 +1,328 @@
+<?php
+
+$_LANG_CONFIG['DATA'] = array(
+	'native'=>'Arabic(عربي) - Arabic',
+	'arabic'=>'Arabic',
+	'last_update'=>'09/03/2018',
+	'author'=>'Mohammed Fawzy (Egy Crash)',
+	'email'=>'m@mfa0.com',
+	'url'=>'http://www.mfa0.com'
+);
+$_LANG['LAST_COMMENTS'] = 'آخر التعليقات ';
+$_LANG['THEME'] = 'قالب';
+$_LANG['THEMES'] = ' قوالب';
+$_LANG['CHANGE_THEME'] = 'تغير القالب ';
+$_LANG['SELECT_THEME'] = 'اختيار قالب ';
+$_LANG['REMEMBER_ME'] = 'تذكرني';
+$_LANG['USERNAME'] = 'إسم المُستخدم ';
+$_LANG['PASSWORD'] = 'كلمة المرور  ';
+$_LANG['COMMENTS'] = 'تعليقات';
+$_LANG['INVALID_CAPTCHA'] = 'رمز التحقق غيثر صحيح   ';
+$_LANG['NAME'] = 'الإسم';
+$_LANG['EMAIL'] = 'البريد الإلكتروني';
+$_LANG['TYPE_THE_COMMENT_HERE'] = 'إكتب التعليق هُنا    ';
+$_LANG['COPY_THE_TEXT_ON_THE_RIGHT'] = 'نسخ النص جهة اليمين  ';
+$_LANG['NEWER_POSTS'] = 'المنشورات الأحدث  ';
+$_LANG['OLDER_POSTS'] = 'المنشورات الأقدم  ';
+$_LANG['FORGOT_PASSWORD'] = 'نسيت كلمة المرور  ';
+$_LANG['INCORRECT_USERNAME_OR_PASSWORD'] = 'خطأ في إسم المُستخدم أو كلمة المرور ';
+$_LANG['LOGIN'] = 'تسجيل الدخول ';
+$_LANG['NEW_CATEGORY'] = 'تصنيف جديد ';
+$_LANG['ENTER_THE_NAME_OF_THE_NEW_CATEGORY'] = 'ادخل إسم التصنيف الجديد';
+$_LANG['ADD_CATEGORY'] = 'إضافة التصنيف ';
+$_LANG['CATEGORIES_IN_YOUR_BLOG'] = 'التصنيفات الموجودة في مدونتك  ';
+$_LANG['DELETE'] = 'حذف';
+$_LANG['ENTER_TITLE_HERE'] = 'ادخل العنوان هُنا';
+$_LANG['SELECT_A_CATEGORY'] = 'اختيار التصنيف';
+$_LANG['ALLOW_COMMENTS'] = 'السماح بالتعليقات  ';
+$_LANG['ALLOW_YOUR_USERS_TO_COMMENT_YOUR_PUBLICATIONS'] = 'السماح للمُستخدمين بالتعليق على منشوراتك';
+$_LANG['STICKY_POST'] = 'منشورات مُبتة';
+$_LANG['SELECT_THIS_OPTION_IF_YOU_WANT_TO_HIGHLIGHT_YOUR_PUBLICATION'] = 'حدد هذا الخيار اذا كُنت تُريد إبراز منشورك.';
+$_LANG['PUBLISH'] = 'نشر';
+$_LANG['GET_VIDEO_INFORMATION'] = 'الحصول على معلومات الفيديو';
+$_LANG['VIDEO_URL'] = 'رابط الفيديو';
+$_LANG['LOADING'] = 'جاري التحميل';
+$_LANG['VIDEO_INFORMATION'] = 'معلومات الفيديو';
+$_LANG['ENTER_QUOTE_HERE'] = 'ادخل الإقتباس هُنا';
+$_LANG['TIMEZONE'] = 'المنطقة الزمنية';
+$_LANG['BLOG_ADDRESS'] = 'رابط المُدونة';
+$_LANG['BLOG_BASE_PATH'] = 'مسار قاعدة المدونة';
+$_LANG['POSTS_PER_PAGE'] = 'عدد المنشورات في الصفحة';
+$_LANG['RSS_ITEMS'] = 'عناصر RSS';
+$_LANG['ADVANCED_OPTIONS_FOR_POST'] = 'خيارات مُتقدمة للمنشور';
+$_LANG['BLOG_TITLE'] = 'عنوان المُدونة';
+$_LANG['BLOG_SLOGAN'] = 'شعار المُدونة';
+$_LANG['ABOUT_YOUR_BLOG'] = 'عن المُدونة';
+$_LANG['FOOTER_TEXT'] = 'النص في ذيل الصفحة';
+$_LANG['LANGUAGE'] = 'اللغة';
+$_LANG['CURRENT_PASSWORD'] = 'كلمة المرور الحالية';
+$_LANG['NEW_PASSWORD'] = 'كلمة المرور الجديدة';
+$_LANG['SAVE_CHANGES'] = 'حفظ التغيرات';
+$_LANG['CHANGE_USERNAME'] = 'تغير إسم المُستخدم';
+$_LANG['CHANGE_PASSWORD'] = 'تغير كلمة المرور';
+$_LANG['CHANGES_HAS_BEEN_SAVED_SUCCESSFULLY'] = 'تم حفظ التغيرات بنجاح';
+$_LANG['USERNAME_HAS_BEEN_CHANGED_SUCCESSFULLY'] = 'تم تغير إسم المُستخدم بنجاح';
+$_LANG['PASSWORD_HAS_BEEN_CHANGED_SUCCESSFULLY'] = 'تم تغير كلمة المرور بنجاح';
+$_LANG['CURRENT_PASSWORD_INCORRECT'] = 'كلمة المرور الحالية غير صحيحة';
+$_LANG['INSTALL'] = 'تنصيب';
+$_LANG['UNINSTALL'] = 'إلغاء التنصيب';
+$_LANG['CONFIGURE'] = 'إعداد';
+$_LANG['CREATED_BY'] = 'أُنشئها';
+$_LANG['CATEGORY_HAS_ONE_OR_MORE_POST'] = 'التصنيف يحتوى على منشور أو أكثر';
+$_LANG['AT_LEAST_ONE_CATEGORY'] = 'لا يُمكن حذف هذا التصنيف أنت تحتاج على الأقل تصنيف واحد.';
+$_LANG['ARE_YOU_SURE'] = 'هل أنت مُتأكد';
+$_LANG['VIEW'] = 'عرض ';
+$_LANG['EDIT'] = 'تعديل ';
+$_LANG['TIMESTAMP_FORMAT'] = 'تنسيق الوقت';
+$_LANG['SELECT_A_TIMEZONE_FOR_A_CORRECT_DATE_VISUALIZATION'] = 'حدد منطقة زمنية لعرض التاريخ بشكل صحيح.';
+$_LANG['AMOUNT_OF_POSTS_THAT_YOU_WISH_TO_SEE_PER_PAGE'] = 'عدد المنشورات التي تُريد عرضها في الصفحة الواحدة .';
+$_LANG['AMOUNT_OF_POSTS_THAT_YOU_WISH_TO_SEE_ON_RSS'] = 'عدد المنشورات التي تُريد عرضها في تغذيات RSS.';
+$_LANG['ADVANCED_OPTIONS_WHEN_PUBLISHING_CONTENT'] = 'الإعدادات المُتقدمة عند نشر المُحتوى.';
+$_LANG['ADMINISTRATORS_USERNAME'] = 'إسم مُدير النظام';
+$_LANG['DO_NOT_FORGET_THIS_PASSWORD'] = 'لا تنس كلمة المرور تلك.';
+$_LANG['NEW_SESSION_STARTED'] = 'جلسة جديدة';
+$_LANG['DATE'] = 'التاريخ';
+$_LANG['LAST_SESSIONS'] = 'آخر الجلسات';
+$_LANG['DASHBOARD'] = 'اللوحة الرئيسية';
+$_LANG['VIEW_BLOG'] = 'عرض المُدونة ';
+$_LANG['LOGOUT'] = 'تسجيل الخروج';
+$_LANG['POSTS'] = 'منشورات ';
+$_LANG['SIMPLE'] = 'بسيط';
+$_LANG['VIDEO'] = 'فيديو';
+$_LANG['QUOTE'] = 'إقتباس ';
+$_LANG['POSTING_WITH_RICH_FORMATTING'] = 'نشر مُحتوى مُنسق بشكل أكبر ';
+$_LANG['AN_EASY_WAY_TO_PUBLISH_VIDEOS'] = 'طريقة بسيطة لنشر الفيديوهات';
+$_LANG['AN_EASY_WAY_TO_PUBLISH_QUOTES'] = 'طريقة بسيطة لنشر الإقتباسات';
+$_LANG['NEW_SIMPLE_POST'] = 'منشور مُبسط جديد';
+$_LANG['NEW_VIDEO_POST'] = 'فيديو جديد';
+$_LANG['NEW_QUOTE_POST'] = 'منشور مُقتبس جديد';
+$_LANG['MANAGE_POSTS'] = 'إدارة المنشورات';
+$_LANG['SETTINGS'] = 'الإعدادات';
+$_LANG['GENERAL_SETTINGS'] = 'إعدادات عامة ';
+$_LANG['ADVANCED_SETTINGS'] = 'إعدادت مُتقدمة ';
+$_LANG['MANAGE_CATEGORIES'] = 'إدارة التصنيفات ';
+$_LANG['USERNAME_AND_PASSWORD'] = 'إسم المٌستخدم وكلمة المرور ';
+$_LANG['MANAGE_PLUGINS'] = 'إدارة الإضافات';
+$_LANG['PLUGINS'] = 'الإضافات ';
+$_LANG['EDIT_POST'] = 'تعديل المنشور ';
+$_LANG['SIGN_IN_TO_NIBBLEBLOG_ADMIN_AREA'] = ' تسجيل الدخول لمنطقة مُدير المُدونة ';
+$_LANG['POST_HAS_BEEN_PUBLISHED_SUCCESSFULLY'] = 'تم النشر بنجاح';
+$_LANG['PLEASE_ENABLE_JAVASCRIPT_IN_YOUR_BROWSER'] = 'من فضلك قُم بتفعيل الجافا في المُتصفح الخاص بك.';
+$_LANG['INSTALLATION_COMPLETE'] = 'إكتمل التنصيب';
+$_LANG['DEPENDENCIES'] = 'الإعتماديات';
+$_LANG['PHP_VERSION'] = 'PHP نسخة';
+$_LANG['PASS'] = 'مر';
+$_LANG['FAIL'] = 'فشل';
+$_LANG['PHP_MODULE'] = 'PHP موديل';
+$_LANG['CONFIGURATION'] = 'إعدادات';
+$_LANG['EXPERT_MODE'] = 'الوضع المُتقدم';
+$_LANG['ADMINISTRATOR_USERNAME'] = 'إسم مُستخدم المُدير';
+$_LANG['ADMINISTRATOR_PASSWORD'] = 'كلمة مرور المُدير';
+$_LANG['ADMINISTRATOR_EMAIL'] = 'بريد المُدير';
+$_LANG['WELCOME_TO_NIBBLEBLOG'] = '   Nibbleblog مرحبا بك في ';
+$_LANG['CHOOSE_YOUR_LANGUAGE'] = 'إختار لغتك';
+$_LANG['WRITING_TEST_ON_CONTENT_DIRECTORY'] = 'كتابة تجريبية في تصنيف المُحتوى';
+$_LANG['INSTALLATION_LINE1'] = 'تهانينا!';
+$_LANG['INSTALLATION_LINE2'] = 'إكتمل التنصيب بنجاح';
+$_LANG['INSTALLATION_LINE3'] = 'لإدارة مُحتوى مُدونتك إذهب إلى هذا العنوان';
+$_LANG['INSTALLATION_LINE4'] = 'أو قُم بزيارة مُدونتك';
+$_LANG['INSTALLATION_LINE5'] = 'إذا كُنت بحاجة للدعم قم بزيارة المُنتديات';
+$_LANG['WELCOME_POST_TITLE'] = '  Nibbleblog مرحباً بك ';
+
+$_LANG['WELCOME_POST_LINE1'] = 'تهانينا تم تنصيب مُدونتك بنجاح وتعمل بشكل جيد';
+$_LANG['WELCOME_POST_LINE2'] = 'قم بالنشر من لوحة التحكم {{DASHBOARD_LINK}}';
+$_LANG['WELCOME_POST_LINE3'] = 'قم بمُتابعتنا على  {{FACEBOOK_LINK}}, {{TWITTER_LINK}} و {{GOOGLEPLUS_LINK}}.';
+
+$_LANG['ENABLE_FRIENDLY_URLS'] = 'تفعيل الروابط البسيطة';
+$_LANG['COPY_THIS_CONTENT_ON_THE_FILE'] = ' قم بنسخ هذا المُحتوى لملف .htaccess يجب أن يكون هذا الملف في المُجلد الرئيسي لُدونتك كما ويجب أن تتأكد من موديل إعادة التوجية مُفعل في موقك ';
+$_LANG['INSERT_PICTURE'] = 'إدراج صورة';
+$_LANG['PERMALINK'] = 'الرابط الثابت';
+$_LANG['FRIENDLY_URLS'] = 'الروابط البسيطة';
+$_LANG['UPLOADING'] = 'جاري الرفع';
+$_LANG['READ_MORE'] = 'قرائة المزيد';
+$_LANG['AUTHOR'] = 'الكاتب';
+$_LANG['THE_PLUGIN_IS_INSTALLED_CORRECTLY'] = 'تم تنصيب الإضافة بنجاح إذا كان القالب يدعمُها فستظهر بشكل صحيح.';
+$_LANG['SHORT_DESCRIPTION_NO_MORE_THAN'] = 'وصف بسيط لا تزيد عدد حروفة عن 150 حرف';
+$_LANG['NEW_COMMENT'] = 'تعليق جديد';
+$_LANG['REGIONAL_SETTINGS'] = 'اللغة والوقت';
+$_LANG['LOCALE'] = 'محلی';
+$_LANG['THIS_FIELD_IS_SET_EACH_TIME_YOU_CHANGE_THE_LANGUAGE_OF_THE_BLOG'] = 'هذا الحقل يتم تعينه في كُل مره يتم تغير لغة المدونة, يمكنك تبديلها بآخر مناسب,لكن يجب الإنتباه إلى أن الخيار الذي ستختاره يجب أن يكون مدعوم من قبل الخادم الخاص بك';
+$_LANG['UNCATEGORIZED'] = 'غير مُصنف';
+$_LANG['MUSIC'] = 'موسيقى';
+$_LANG['VIDEOS'] = 'فيديوهات';
+$_LANG['POWERED_BY_NIBBLEBLOG'] = 'بدعم من Nibbleblog';
+$_LANG['CUSTOM'] = 'تخصيص';
+$_LANG['SELECT_A_FORMAT_FOR_DISPLAYING_THE_DATES'] = 'حدد تنسيق للتواريخ أو اختار تخصيص لإنشاء تنسيق خاص بك';
+$_LANG['ENABLE_WYSIWYG_EDITOR'] = 'تفعيل المُحرر WYSIWYG';
+$_LANG['ENABLE_OR_DISABLE_THE_WYSIWYG_EDITOR'] = 'تفعيل أو إلغاء تفعيل المُحرر WYSIWYG';
+$_LANG['IMAGE_SETTINGS'] = 'أعدادات الصور';
+$_LANG['AUTOMATIC_IMAGE_RESIZING'] = 'ضبط مقاسات الصور بشكل آلي';
+$_LANG['THUMBNAILS'] = 'صور مُصغره';
+$_LANG['ENABLE_AUTOMATIC_IMAGE_RESIZING'] = 'تفعيل ضبط مقاسات الصور بشكل آلي';
+$_LANG['ENABLE_THUMBNAILS'] = 'تفعيل الصور المُصغرة';
+$_LANG['WIDTH'] = 'عرض';
+$_LANG['HEIGHT'] = 'ارتفاع';
+$_LANG['OPTION'] = 'خيار';
+$_LANG['THIS_OPTION_AUTOMATICALLY_CHANGES_THE_IMAGE'] = 'هذا الخيار يقوم بتغير مقاسات الصورة بعد رفعها مُباشرة';
+$_LANG['ENABLE_THIS_OPTION_IF_YOU_WANT_TO_GENERATE'] = 'قُم بتفعيل هذا الخيار إذا أردت إنشاء صور مُصغرة من الصور المرفوعة بشكل آلي';
+$_LANG['THERE_ARE_NO_PUBLISHED_COMMENTS'] = 'لا يوجد تعليقات منشورة.';
+$_LANG['THERE_ARE_NO_DRAFT_POSTS'] = 'لا يوجد منشورات مُسوّدة';
+$_LANG['AUTOMATIC'] = 'آلي';
+$_LANG['EXACT'] = 'دقيق';
+$_LANG['PORTRAIT'] = 'إطار طولي';
+$_LANG['LANDSCAPE'] = 'إطار عرضي';
+$_LANG['CROP'] = 'قص';
+$_LANG['YOU_CAN_USE_HTML_OR_MARKDOWN_SYNTAX'] = 'يمكنك إستخدام HTML أو Markdown syntax';
+$_LANG['DRAFT'] = 'مُسوّدة';
+$_LANG['YOU_HAVE_A_NEW_COMMENT'] = 'لديك تعليق جديد';
+$_LANG['LOGIN_FAILED_ATTEMPT'] = 'مُحاولة دخول فاشلة';
+$_LANG['NOTIFICATIONS'] = 'تنبيهات';
+$_LANG['PREVIEW'] = 'إستعراض';
+$_LANG['PLEASE_COMPLETE_ALL_FIELDS'] = 'برجاء إكمال جميع الحقول';
+$_LANG['THERE_ARE_NO_POSTS'] = 'لا يوجد منشورات';
+$_LANG['BACK_TO_BLOG'] = 'العودة للمدونة';
+$_LANG['LOW_DETECTION_LEVEL'] = 'مٌُستوى كشف مُنخفض';
+$_LANG['MEDIUM_DETECTION_LEVEL'] = 'مٌُستوى كشف مُتوسط';
+$_LANG['HIGH_DETECTION_LEVEL'] = 'مٌُستوى كشف عالٍ';
+$_LANG['SPAM_CONTROL'] = 'التحكم في SPAM';
+$_LANG['DISAPPROVE'] = 'رفض';
+$_LANG['APPROVE_SPAM_DETECTED'] = 'تأكيد(تحديد SPAM)';
+$_LANG['APPROVE'] = 'تأكيد';
+$_LANG['API_KEY'] = 'Api مفتاح';
+$_LANG['INSERT_THE_API_KEY_HERE'] = 'قم بإدخال مُفتاح API هنا ,إذا لم يكن لديك واحد أو أنت غير مُلم بهذا الأمر برجاء زيارة الرابط التالي';
+$_LANG['SPAM_MONITOR'] = 'مُراقية SPAM';
+$_LANG['ENABLE_COMMENTS_BY_DEFAULT'] = 'قُم بتفعيل هذا الخيار للسماح بالتعليقات بشكل أساسي';
+$_LANG['ENABLE_THIS_FEATURE_TO_PROTECT_AGAINST_XSS'] = 'قم بتفعيل هذا الخيار للحماية من هجمات (XSS) عن طريق ترشيح أي رمز HTML .';
+$_LANG['ENABLE_THIS_FEATURE_TO_MODERATE_COMMENTS'] = 'Enable this feature to moderate comments before they are published.';
+$_LANG['ENABLE_THIS_FEATURE_TO_PROTECT_YOUR_COMMENTS'] = 'قم بتفعيل هذا الخيار للحماية من التعليقات المؤذية.';
+$_LANG['ENABLE_THIS_FEATURE_TO_DELETE_SPAM_AUTO'] = 'قُم بتفعيل هذا الخيار لحذف التعليقات المؤذية بشكل آلي';
+$_LANG['COMMENTS_DETECTED_AS_SPAM_WILL_BE_FILTERED'] = 'التعليقات التي سيتم تحديدها كمذئية سيتم حذفها';
+$_LANG['NOTIFY_WHEN_A_USER_MAKES_A_COMMENT'] = 'قُم بتنبيهي إذا علق أحد المُستخدمين.';
+$_LANG['NOTIFY_WHEN_A_USER_FAILS_TO_LOGIN'] = 'قُم بتنبيهي إذا فشل أحد المُستخدمين في تسجيل الدخول.';
+$_LANG['NOTIFY_WHEN_A_USER_SUCCESSES_LOGIN'] = 'قُم بتنبيهي إذا سجل أحد المُستخدمين الدخول بنجاح.';
+$_LANG['NOTIFICATIONS_WILL_BE_SENT_TO_THIS_EMAIL'] = 'ستيم إرسال التنبيهات إلى هذا البريد.';
+$_LANG['NOTIFICATIONS_WILL_BE_SENT_FROM_THIS_EMAIL'] = 'سيتم إرسال التنبيهات من هذا البريد.';
+$_LANG['EMAIL_ACCOUNTS_SETTINGS'] = 'إعدادات البريد الإلكتروني';
+$_LANG['NOTIFY_ME_FROM'] = 'قُم بتنبيهي من';
+$_LANG['NOTIFY_ME_TO'] = 'قُم بتنبيهي إلى';
+$_LANG['NOTIFICATIONS_VIA_EMAIL'] = 'التنبيهات بواسطة البريد';
+$_LANG['YOUR_COMMENT_IS_UNDER_REVIEW_IT_WILL_BE'] = 'تعليقك قيد المُراجعة وسيتم نشره في وقت قصير';
+$_LANG['COMMENTS_ENABLED'] = 'تفعيل التعليقات بشكل أساسي';
+$_LANG['SANITIZE_HTML_CODE'] = 'ترشيح رمز HTML';
+$_LANG['MODERATE_COMMENTS'] = 'تعديل مُعتدل';
+$_LANG['ENABLE_SPAM_MONITOR'] = 'تفعيل مُراقبة SPAM';
+$_LANG['AUTOMATICALLY_DELETE_SPAM'] = 'حذف SPAM بشكل آلي';
+$_LANG['COMMENT_SETTINGS'] = 'إعدادات التعليقات';
+$_LANG['MANAGE_COMMENTS'] = 'إدارة التعليقات';
+$_LANG['BASIC_CONFIGURATION_OF_YOUR_BLOG'] = 'الإعدادات الأساسية لمدونتك';
+$_LANG['SIMPLE_POST'] = 'منشور بسيط';
+$_LANG['VIDEO_POST'] = 'منشور فيديو';
+$_LANG['QUOTE_POST'] = 'منشور مُقتبس';
+$_LANG['CATEGORIES'] = 'التصنيفات';
+$_LANG['TAGS'] = 'كلمات دلالية';
+$_LANG['LINK'] = 'رابط';
+$_LANG['KEYWORDS'] = 'كلمات مفتاحية';
+$_LANG['MANAGE'] = 'إدارة';
+$_LANG['404_TITLE'] = 'الصفحة غير موجودة';
+$_LANG['404_PAGE_NOT_FOUND'] = 'للأسف الصفحة التي تبحث عنها غير موجودة';
+$_LANG['NO_TITLE'] = 'لا عنوان';
+$_LANG['TITLE'] = 'عنوان';
+$_LANG['TYPE'] = 'نوع';
+$_LANG['CATEGORY'] = 'تصنيف';
+$_LANG['PUBLISH_DATE'] = 'تاريخ النشر';
+$_LANG['LAST_MODIFIED'] = 'آخر تعديل';
+$_LANG['COMMENT'] = 'تعليق';
+$_LANG['POST'] = 'منشور';
+$_LANG['SLUG'] = 'شعار';
+$_LANG['SITE'] = 'موقع';
+$_LANG['SITE_TITLE'] = 'عنوان الموقع';
+$_LANG['SITE_DESCRIPTION'] = 'وصف الموقع';
+$_LANG['TAGS_SEPARATED_BY_COMMA'] = 'كلمات دلالية بينها فاصلة.';
+$_LANG['KEYWORDS_SEPARATED_BY_COMMA'] = 'كلمات مفتاحية بينها فاصلة';
+$_LANG['ROBOTS'] = 'Robots';
+$_LANG['WEBMASTER_TOOLS'] = 'ادوات المسؤل عن الموقع';
+$_LANG['GOOGLE_WEBMASTER_TOOLS'] = 'أدوات جوجل لمسئولي المواقع - رمز التفعيل';
+$_LANG['BING_WEBMASTER_TOOLS'] = 'أدوات بنج لمسئولي المواقع - رمز التفعيل';
+$_LANG['SEO_OPTIONS'] = 'خيارات الأرشفة';
+$_LANG['SHARE'] = 'مُشاركة';
+$_LANG['ALLOW_COMMENTS_ON_THIS_POST'] = 'السماح بالتعليقات على هذا المنشور.';
+$_LANG['MULTIPLE_DIRECTIVES_MAY_BE_COMBINED_IN'] = 'يمكن كتابة العديد من التوجيهات بينها بفاصلة مثل, nofollow, noindex, noarchive .';
+$_LANG['DRAFT_POSTS'] = 'منشورات مُسوّدة';
+$_LANG['POSITION'] = 'الموقع';
+
+$_LANG['UPLOAD_A_NEW_IMAGE'] = 'رفع صورة جديدة';
+$_LANG['OR'] = 'أو';
+$_LANG['SELECT_AN_IMAGE_FROM_YOUR_BAG'] = 'إختيار صورة من محفظتك';
+
+$_LANG['THERE_IS_A_NEW_VERSION'] = 'هنالك نسخة جديدة مُتاحة من Nibbleblog';
+$_LANG['VERSION'] = 'إصدار';
+$_LANG['RELEASE_DATE'] = 'تاريخ الإصدار';
+
+$_LANG['NEW_PAGE'] = 'صفحة جديدة';
+$_LANG['SET_AS_HOMEPAGE'] = 'تحديد كصفحة رئيسية';
+$_LANG['THERE_IS_A_PAGE_AS_HOMEPAGE'] = 'هناك صفحة مُحددة مُسبقاً كصفحة رئيسية إضغط هُنا لإذالتها.';
+$_LANG['MANAGE_PAGES'] = 'إدارة الصفحات';
+$_LANG['PAGE'] = 'صفحة';
+$_LANG['PAGES'] = 'صفحات';
+$_LANG['PAGE_HAS_BEEN_PUBLISHED_SUCCESSFULLY'] = 'تم نشر الصفحة بنجاح';
+$_LANG['THERE_ARE_NO_PAGES'] = 'لا يوجد صفحات.';
+$_LANG['HOME'] = 'الرئيسية';
+$_LANG['REQUEST_NEW_PASSWORD'] = 'طلب كلمة مرور جديدة';
+
+$_LANG['NEW_POST'] = 'منشور جديد';
+$_LANG['QUICK_START'] = 'بداية سريعة';
+$_LANG['QUALITY'] = 'الجودة';
+$_LANG['NOTES'] = 'مُلاحظات';
+$_LANG['WEBSITE'] = 'موقع إليكتروني';
+$_LANG['COMPLETE_THIS_FIELD_IF_YOU_WANT_USE_DISQUS'] = 'قُم بإكمال هذا الحقل إذا كُنت تُريد مُناقشة التعليقات في مدونتك , تلك الخاصية تعتمد على القالب , للمزيد من المعلومات قُم بزيارة الرابط التالي .';
+$_LANG['COMPLETE_THIS_FIELD_IF_YOU_WANT_USE_FACEBOOK_COMMENTS'] = 'قُم بإكمال هذا الحقل إذا كُنت تُريد تفعيل تعليقات الفيسبوك على مدونتك تلك الخاصية تعتمد على القالب , للمزيد من المعلومات قُم بزيارة الرابط التالي.';
+
+$_LANG['WE_ARE_SENT_YOU_AN_EMAIL'] = 'تم إرسال بريد إلكتروني إليك إن لم يكن في مُجلد الوارد سوف يكون في مُجلد SPAM';
+$_LANG['AN_ERROR_OCURRED_WHILE'] = 'حدث خطأ أثناء إرسال البريد.';
+
+$_LANG['EMAIL_NOTIFICATION_FAIL_LOGIN'] = '
+<p>هذا تنبيه من مدونتك {{BLOG_NAME}}</p>
+<p>لقد حاول أحدهم الدخول إلى مدونتك بإسم: {{USERNAME}} وكلمة مرور: {{PASSWORD}}</p>
+<p>هذا هو عنوان الأنترنت {{IP}} الذي حاول تسجيل الدخول منه.</p>
+';
+
+$_LANG['EMAIL_NOTIFICATION_SESSION_STARTED'] = '
+<p>This is a notification from your blog {{BLOG_NAME}}</p>
+<p>Successfully joined to admin area with username: {{USERNAME}}</p>
+<p>The IP address {{IP}} which they wanted to connect.</p>
+';
+
+$_LANG['EMAIL_NOTIFICATION_NEW_COMMENT'] = '
+<p>هذا تنبيه من مدونتك {{BLOG_NAME}}</p>
+<p>لقيد تعليق جديد في المدونة.</p>
+<p>{{COMMENT}}</p>
+<p>الناشر: {{AUTHOR_NAME}}</p>
+<p>البريد الإلكتروني: {{AUTHOR_EMAIL}}</p>
+<p>عنوان الأنترنت: {{IP}}</p>
+';
+
+$_LANG['EMAIL_NOTIFICATION_FORGOT_PASSWORD'] = '
+<p>هذا تنبيه من مدونتك {{BLOG_NAME}}</p>
+<p>هل نسيت كلمة السر الخاصة بك لا توجد مُشكلة!</p>
+<p>إتبع الرابط التالي: {{FORGOT_LINK}}</p>
+';
+
+$_LANG['REGIONAL'] = 'المنطقة و اللغة';
+$_LANG['INSERT_IMAGE_FROM_URL'] = 'إدراج صورة من رابط';
+
+$_LANG['BLUDIT_SYNC'] = 'Bludit Sync';
+$_LANG['NIBBLEBLOG_URL_SYNC'] = 'Nibbleblog مُزامنة رابط';
+$_LANG['NIBBLEBLOG_KEY_SYNC'] = 'Nibbleblog مُزامنة مُفتاح';
+
+$_LANG['CATEGORY_NAME'] = 'إسم التصنيف';
+$_LANG['CATEGORY_SLUG'] = 'شعار التصنيف';
+
+$_LANG['INSTALLED_PLUGINS'] = 'الإضافات التي تم تنصيبها';
+$_LANG['PLUGINS_AVAILABLE_FOR_INSTALL'] = 'إضافة جاهزة للتنصيب';
+
+$_LANG['ABSOLUTE_URL_ADDRESS_OF_YOUR_BLOG'] = 'الرابط الكامل لمدونتك. مثال http://www.domain.com/directory/';
+$_LANG['ABSOLUTE_ADDRESS_THAT_CONTAINS_THE_BLOGS_FILE_SYSTEM'] = 'رابط المُجلد الذي يحتوي على ملفات مدونتك إذا قُمت برفع ملفات المُدونة للمُجلد الرئيسي قُم بوضع علامة "/" فقط أما إذا قُمت برفع الملفات لمُجلد آخر يجب أن تكون "/المُجلد/".';
+
+$_LANG['COVER_ATTRIBUTE'] = 'سمة الغُلاف';
+
+?>
